@@ -12,4 +12,7 @@ This repository maintains the state-of-the-art SDN/NFV talks including SIGCOMM/N
 
 ## SIGCOMM
 
-TBD
+### SIGCOMM'17
+
+- [NFP: Enabling Network Function Parallelism in NFV](https://dl.acm.org/authorize?N33997)
+- [NFVnice: Dynamic Backpressure and Scheduling for NFV Service Chains](https://dl.acm.org/authorize?N33999)
