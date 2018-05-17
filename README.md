@@ -9,6 +9,7 @@ This repository maintains the state-of-the-art SDN/NFV talks including SIGCOMM/N
 - [NetChain: Scale-Free Sub-RTT Coordination](https://www.youtube.com/watch?v=GjIJkdL9J4o)
 - [Metron: NFV Service Chains at the True Speed of the Underlying Hardware](https://www.youtube.com/watch?v=6-U5AOjbhjo)
 - [G-NET: Effective GPU Sharing in NFV Systems](https://www.youtube.com/watch?v=rcbivyvyEnY)
+- [ResQ: Enabling SLOs in Network Function Virtualization](https://www.youtube.com/watch?v=NLzYOCpvImU)
 
 ## SIGCOMM
 
