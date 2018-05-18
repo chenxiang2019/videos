@@ -10,6 +10,7 @@ This repository maintains the state-of-the-art SDN/NFV talks including SIGCOMM/N
 - [Metron: NFV Service Chains at the True Speed of the Underlying Hardware](https://www.youtube.com/watch?v=6-U5AOjbhjo)
 - [G-NET: Effective GPU Sharing in NFV Systems](https://www.youtube.com/watch?v=rcbivyvyEnY)
 - [ResQ: Enabling SLOs in Network Function Virtualization](https://www.youtube.com/watch?v=NLzYOCpvImU)
+- [Elastic Scaling of Stateful Network Functions](https://www.youtube.com/watch?v=eCLKVMWikmQ)
 
 ## SIGCOMM
 
