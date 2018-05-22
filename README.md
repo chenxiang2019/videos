@@ -12,6 +12,10 @@ This repository maintains the state-of-the-art SDN/NFV talks including SIGCOMM/N
 - [ResQ: Enabling SLOs in Network Function Virtualization](https://www.youtube.com/watch?v=NLzYOCpvImU)
 - [Elastic Scaling of Stateful Network Functions](https://www.youtube.com/watch?v=eCLKVMWikmQ)
 
+### NSDI'17
+
+- [Stateless Network Functions: Breaking the Tight Coupling of State and Processing](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/kablan)
+
 ## SIGCOMM
 
 ### SIGCOMM'17
