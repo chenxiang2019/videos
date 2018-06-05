@@ -22,3 +22,7 @@ This repository maintains the state-of-the-art SDN/NFV talks including SIGCOMM/N
 
 - [NFP: Enabling Network Function Parallelism in NFV](https://dl.acm.org/authorize?N33997)
 - [NFVnice: Dynamic Backpressure and Scheduling for NFV Service Chains](https://dl.acm.org/authorize?N33999)
+
+### SIGCOMM'14
+
+- [OpenNF: Enabling Innovation in Network Function Control](https://www.microsoft.com/en-us/research/video/opennf-enabling-innovation-in-network-function-control/)
