@@ -25,4 +25,4 @@ This repository maintains the state-of-the-art SDN/NFV talks including SIGCOMM/N
 
 ### SIGCOMM'14
 
-- [OpenNF: Enabling Innovation in Network Function Control](https://www.microsoft.com/en-us/research/video/opennf-enabling-innovation-in-network-function-control/)
+- [OpenNF: Enabling Innovation in Network Function Control](https://www.youtube.com/watch?v=4rhvmTWStRk)
