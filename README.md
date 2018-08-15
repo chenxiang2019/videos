@@ -11,6 +11,8 @@ This repository maintains the state-of-the-art SDN/NFV talks including SIGCOMM/N
 - [G-NET: Effective GPU Sharing in NFV Systems](https://www.youtube.com/watch?v=rcbivyvyEnY)
 - [ResQ: Enabling SLOs in Network Function Virtualization](https://www.youtube.com/watch?v=NLzYOCpvImU)
 - [Elastic Scaling of Stateful Network Functions](https://www.youtube.com/watch?v=eCLKVMWikmQ)
+- [007: Democratically Finding the Cause of Packet Drops](https://www.usenix.org/conference/nsdi18/presentation/arzani)
+- [Approximating Fair Queueing on Reconfigurable Switches](https://www.usenix.org/conference/nsdi18/presentation/sharma)
 
 ### NSDI'17
 
