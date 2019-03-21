@@ -32,3 +32,9 @@ This repository maintains the state-of-the-art SDN/NFV talks including SIGCOMM/N
 ### SIGCOMM'14
 
 - [OpenNF: Enabling Innovation in Network Function Control](https://www.youtube.com/watch?v=4rhvmTWStRk)
+
+## EuroSys
+
+### EuroSys'18
+
+- [TurboFlow: Information Rich Flow Record Generation on Commodity Switches](https://youtu.be/95BpLpW5WoQ)
